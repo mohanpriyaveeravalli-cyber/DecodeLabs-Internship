@@ -1,0 +1,1 @@
+This project is a Rule-Based AI Chatbot developed using Python. The chatbot uses keyword matching, if-else logic, and conversational interaction to simulate basic Artificial Intelligence behavior.
